@@ -1,0 +1,581 @@
+2022-10-28 21:03:03,210 - BaseClass -INFO - URL is open
+2022-10-28 21:03:03,634 - BaseClass -INFO - enter username
+2022-10-28 21:03:04,225 - BaseClass -INFO - enter password
+2022-10-28 21:03:08,257 - BaseClass -INFO - Login test passed
+2022-10-28 21:03:54,737 - BaseClass -INFO - username provided
+2022-10-28 21:03:54,856 - BaseClass -INFO - password provided
+2022-10-28 21:03:55,210 - BaseClass -INFO - login button clicked
+2022-10-28 21:03:57,479 - BaseClass -INFO - username provided
+2022-10-28 21:03:57,940 - BaseClass -INFO - password provided
+2022-10-28 21:03:58,238 - BaseClass -INFO - login button clicked
+2022-10-28 21:04:01,124 - BaseClass -INFO - username provided
+2022-10-28 21:04:01,555 - BaseClass -INFO - password provided
+2022-10-28 21:04:02,230 - BaseClass -INFO - login button clicked
+2022-10-28 21:04:03,752 - BaseClass -INFO - username provided
+2022-10-28 21:04:03,999 - BaseClass -INFO - password provided
+2022-10-28 21:04:04,368 - BaseClass -INFO - login button clicked
+2022-10-28 21:04:06,095 - BaseClass -INFO - username provided
+2022-10-28 21:04:06,253 - BaseClass -INFO - password provided
+2022-10-28 21:04:08,182 - BaseClass -INFO - login button clicked
+2022-10-28 21:04:24,935 - BaseClass -INFO - username 
+2022-10-28 21:04:25,147 - BaseClass -INFO - Password 
+2022-10-28 21:04:28,487 - BaseClass -INFO - logged in 
+2022-10-28 21:09:21,732 - BaseClass -INFO - username provided
+2022-10-28 21:09:21,857 - BaseClass -INFO - password provided
+2022-10-28 21:09:23,211 - BaseClass -INFO - login button clicked
+2022-10-28 21:09:25,803 - BaseClass -INFO - username provided
+2022-10-28 21:09:25,914 - BaseClass -INFO - password provided
+2022-10-28 21:09:26,529 - BaseClass -INFO - login button clicked
+2022-10-28 21:09:28,794 - BaseClass -INFO - username provided
+2022-10-28 21:09:28,964 - BaseClass -INFO - password provided
+2022-10-28 21:09:29,764 - BaseClass -INFO - login button clicked
+2022-10-28 21:09:31,613 - BaseClass -INFO - username provided
+2022-10-28 21:09:31,763 - BaseClass -INFO - password provided
+2022-10-28 21:09:32,079 - BaseClass -INFO - login button clicked
+2022-10-28 21:09:34,139 - BaseClass -INFO - username provided
+2022-10-28 21:09:34,243 - BaseClass -INFO - password provided
+2022-10-28 21:09:34,544 - BaseClass -INFO - login button clicked
+2022-10-28 22:05:08,859 - BaseClass -INFO - URL is open
+2022-10-28 22:05:09,653 - BaseClass -INFO - enter username
+2022-10-28 22:05:09,797 - BaseClass -INFO - enter password
+2022-10-28 22:05:11,432 - BaseClass -INFO - Login test passed
+2022-10-28 22:05:25,148 - BaseClass -INFO - username provided
+2022-10-28 22:05:25,289 - BaseClass -INFO - password provided
+2022-10-28 22:05:25,962 - BaseClass -INFO - login button clicked
+2022-10-28 22:05:28,939 - BaseClass -INFO - username provided
+2022-10-28 22:05:29,107 - BaseClass -INFO - password provided
+2022-10-28 22:05:29,977 - BaseClass -INFO - login button clicked
+2022-10-28 22:05:33,202 - BaseClass -INFO - username provided
+2022-10-28 22:05:33,445 - BaseClass -INFO - password provided
+2022-10-28 22:05:34,702 - BaseClass -INFO - login button clicked
+2022-10-28 22:05:37,680 - BaseClass -INFO - username provided
+2022-10-28 22:05:37,800 - BaseClass -INFO - password provided
+2022-10-28 22:05:38,466 - BaseClass -INFO - login button clicked
+2022-10-28 22:05:40,916 - BaseClass -INFO - username provided
+2022-10-28 22:05:41,031 - BaseClass -INFO - password provided
+2022-10-28 22:05:41,645 - BaseClass -INFO - login button clicked
+2022-10-28 22:05:54,194 - BaseClass -INFO - username 
+2022-10-28 22:05:54,376 - BaseClass -INFO - Password 
+2022-10-28 22:05:58,518 - BaseClass -INFO - logged in 
+2022-10-28 22:08:04,017 - BaseClass -INFO - username 
+2022-10-28 22:08:04,226 - BaseClass -INFO - Password 
+2022-10-28 22:08:07,153 - BaseClass -INFO - logged in 
+2022-10-28 22:10:21,775 - BaseClass -INFO - username 
+2022-10-28 22:10:22,136 - BaseClass -INFO - Password 
+2022-10-28 22:10:26,552 - BaseClass -INFO - logged in 
+2022-10-28 22:11:13,316 - BaseClass -INFO - username 
+2022-10-28 22:11:13,519 - BaseClass -INFO - Password 
+2022-10-28 22:11:16,109 - BaseClass -INFO - logged in 
+2022-10-28 22:12:47,650 - BaseClass -INFO - username 
+2022-10-28 22:12:49,436 - BaseClass -INFO - Password 
+2022-10-28 22:12:52,155 - BaseClass -INFO - logged in 
+2022-10-28 22:15:34,973 - BaseClass -INFO - username 
+2022-10-28 22:15:36,607 - BaseClass -INFO - Password 
+2022-10-28 22:15:39,100 - BaseClass -INFO - logged in 
+2022-10-28 22:17:06,612 - BaseClass -INFO - username 
+2022-10-28 22:17:06,792 - BaseClass -INFO - Password 
+2022-10-28 22:17:11,402 - BaseClass -INFO - logged in 
+2022-10-28 22:20:37,315 - BaseClass -INFO - username 
+2022-10-28 22:20:37,484 - BaseClass -INFO - Password 
+2022-10-28 22:20:41,667 - BaseClass -INFO - logged in 
+2022-10-28 22:21:44,044 - BaseClass -INFO - username 
+2022-10-28 22:21:44,224 - BaseClass -INFO - Password 
+2022-10-28 22:21:45,340 - BaseClass -INFO - logged in 
+2022-10-28 22:30:03,183 - BaseClass -INFO - username 
+2022-10-28 22:30:03,259 - BaseClass -INFO - Password 
+2022-10-28 22:30:06,135 - BaseClass -INFO - logged in 
+2022-10-28 22:31:24,040 - BaseClass -INFO - username 
+2022-10-28 22:31:24,147 - BaseClass -INFO - Password 
+2022-10-28 22:31:26,592 - BaseClass -INFO - logged in 
+2022-10-28 22:33:07,422 - BaseClass -INFO - username 
+2022-10-28 22:33:07,555 - BaseClass -INFO - Password 
+2022-10-28 22:33:09,709 - BaseClass -INFO - logged in 
+2022-10-28 22:35:44,811 - BaseClass -INFO - username 
+2022-10-28 22:35:44,875 - BaseClass -INFO - Password 
+2022-10-28 22:35:46,788 - BaseClass -INFO - logged in 
+2022-10-28 22:52:20,281 - BaseClass -INFO - username 
+2022-10-28 22:52:20,392 - BaseClass -INFO - Password 
+2022-10-28 22:52:23,608 - BaseClass -INFO - logged in 
+2022-11-26 15:57:25,438 - BaseClass -INFO - username 
+2022-11-26 15:57:25,587 - BaseClass -INFO - Password 
+2022-11-26 15:57:28,492 - BaseClass -INFO - logged in 
+2022-11-26 16:07:47,616 - BaseClass -INFO - username 
+2022-11-26 16:07:47,656 - BaseClass -INFO - Password 
+2022-11-26 16:07:50,790 - BaseClass -INFO - logged in 
+2022-11-26 16:31:47,142 - BaseClass -INFO - URL is open
+2022-11-26 16:33:03,212 - BaseClass -INFO - URL is open
+2022-11-26 16:34:09,419 - BaseClass -INFO - URL is open
+2022-11-26 16:34:11,203 - BaseClass -INFO - enter username
+2022-11-26 16:34:11,244 - BaseClass -INFO - enter password
+2022-11-26 16:34:11,731 - BaseClass -INFO - Login test passed
+2022-11-26 17:54:56,927 - BaseClass -INFO - URL is open
+2022-11-26 17:55:12,705 - BaseClass -INFO - enter username
+2022-11-26 17:55:13,468 - BaseClass -INFO - enter password
+2022-11-26 17:55:14,167 - BaseClass -INFO - Login test passed
+2022-11-26 17:55:45,946 - BaseClass -INFO - URL is open
+2022-11-26 17:55:51,948 - BaseClass -INFO - username provided
+2022-11-26 17:55:52,060 - BaseClass -INFO - password provided
+2022-11-26 17:55:52,296 - BaseClass -INFO - login button clicked
+2022-11-26 17:55:52,312 - BaseClass -INFO - login passed 
+2022-11-26 17:55:54,721 - BaseClass -INFO - username provided
+2022-11-26 17:55:54,855 - BaseClass -INFO - password provided
+2022-11-26 17:55:55,083 - BaseClass -INFO - login button clicked
+2022-11-26 17:55:55,097 - BaseClass -INFO - login passed 
+2022-11-26 17:55:56,749 - BaseClass -INFO - username provided
+2022-11-26 17:55:56,910 - BaseClass -INFO - password provided
+2022-11-26 17:55:57,147 - BaseClass -INFO - login button clicked
+2022-11-26 17:55:57,155 - BaseClass -INFO - login passed 
+2022-11-26 17:55:58,746 - BaseClass -INFO - username provided
+2022-11-26 17:55:58,883 - BaseClass -INFO - password provided
+2022-11-26 17:55:59,144 - BaseClass -INFO - login button clicked
+2022-11-26 17:55:59,159 - BaseClass -INFO - login passed 
+2022-11-26 17:56:00,832 - BaseClass -INFO - username provided
+2022-11-26 17:56:00,915 - BaseClass -INFO - password provided
+2022-11-26 17:56:01,320 - BaseClass -INFO - login button clicked
+2022-11-26 17:56:01,324 - BaseClass -INFO - login passed 
+2022-11-26 18:00:30,407 - BaseClass -INFO - URL is open
+2022-11-26 18:00:32,186 - BaseClass -INFO - enter username
+2022-11-26 18:00:32,216 - BaseClass -INFO - enter password
+2022-11-26 18:00:32,564 - BaseClass -INFO - Login test passed
+2022-11-26 18:00:49,786 - BaseClass -INFO - URL is open
+2022-11-26 18:00:53,083 - BaseClass -INFO - username provided
+2022-11-26 18:00:53,138 - BaseClass -INFO - password provided
+2022-11-26 18:00:53,430 - BaseClass -INFO - login button clicked
+2022-11-26 18:00:53,465 - BaseClass -INFO - Login test passed
+2022-11-26 18:00:55,761 - BaseClass -INFO - username provided
+2022-11-26 18:00:55,904 - BaseClass -INFO - password provided
+2022-11-26 18:00:56,154 - BaseClass -INFO - login button clicked
+2022-11-26 18:00:56,186 - BaseClass -INFO - Login test passed
+2022-11-26 18:00:57,802 - BaseClass -INFO - username provided
+2022-11-26 18:00:58,075 - BaseClass -INFO - password provided
+2022-11-26 18:00:58,315 - BaseClass -INFO - login button clicked
+2022-11-26 18:00:58,331 - BaseClass -INFO - Login test passed
+2022-11-26 18:01:00,420 - BaseClass -INFO - username provided
+2022-11-26 18:01:00,597 - BaseClass -INFO - password provided
+2022-11-26 18:01:00,836 - BaseClass -INFO - login button clicked
+2022-11-26 18:01:00,858 - BaseClass -INFO - Login test passed
+2022-11-26 18:01:02,566 - BaseClass -INFO - username provided
+2022-11-26 18:01:02,723 - BaseClass -INFO - password provided
+2022-11-26 18:01:02,965 - BaseClass -INFO - login button clicked
+2022-11-26 18:01:02,993 - BaseClass -INFO - Login test passed
+2022-11-26 18:02:06,048 - BaseClass -INFO - URL is open
+2022-11-26 18:02:09,107 - BaseClass -INFO - username provided
+2022-11-26 18:02:09,135 - BaseClass -INFO - password provided
+2022-11-26 18:02:09,352 - BaseClass -INFO - login button clicked
+2022-11-26 18:02:09,469 - BaseClass -INFO - Login test passed
+2022-11-26 18:02:11,539 - BaseClass -INFO - username provided
+2022-11-26 18:02:11,574 - BaseClass -INFO - password provided
+2022-11-26 18:02:11,807 - BaseClass -INFO - login button clicked
+2022-11-26 18:02:11,849 - BaseClass -INFO - Login test passed
+2022-11-26 18:02:13,738 - BaseClass -INFO - username provided
+2022-11-26 18:02:13,877 - BaseClass -INFO - password provided
+2022-11-26 18:02:14,139 - BaseClass -INFO - login button clicked
+2022-11-26 18:02:14,164 - BaseClass -INFO - Login test passed
+2022-11-26 18:02:15,929 - BaseClass -INFO - username provided
+2022-11-26 18:02:16,064 - BaseClass -INFO - password provided
+2022-11-26 18:02:16,409 - BaseClass -INFO - login button clicked
+2022-11-26 18:02:16,431 - BaseClass -INFO - Login test passed
+2022-11-26 18:02:17,944 - BaseClass -INFO - username provided
+2022-11-26 18:02:18,126 - BaseClass -INFO - password provided
+2022-11-26 18:02:18,369 - BaseClass -INFO - login button clicked
+2022-11-26 18:02:18,394 - BaseClass -INFO - Login test passed
+2022-11-26 18:07:25,491 - BaseClass -INFO - URL is open
+2022-11-26 18:07:29,073 - BaseClass -INFO - username provided
+2022-11-26 18:07:29,137 - BaseClass -INFO - password provided
+2022-11-26 18:07:29,360 - BaseClass -INFO - login button clicked
+2022-11-26 18:07:31,946 - BaseClass -INFO - username provided
+2022-11-26 18:07:32,024 - BaseClass -INFO - password provided
+2022-11-26 18:07:32,255 - BaseClass -INFO - login button clicked
+2022-11-26 18:07:34,806 - BaseClass -INFO - username provided
+2022-11-26 18:07:34,994 - BaseClass -INFO - password provided
+2022-11-26 18:07:35,229 - BaseClass -INFO - login button clicked
+2022-11-26 18:07:38,500 - BaseClass -INFO - username provided
+2022-11-26 18:07:38,558 - BaseClass -INFO - password provided
+2022-11-26 18:07:38,802 - BaseClass -INFO - login button clicked
+2022-11-26 18:07:41,588 - BaseClass -INFO - username provided
+2022-11-26 18:07:41,779 - BaseClass -INFO - password provided
+2022-11-26 18:07:42,027 - BaseClass -INFO - login button clicked
+2022-11-26 18:09:22,509 - BaseClass -INFO - URL is open
+2022-11-26 18:09:26,489 - BaseClass -INFO - username provided
+2022-11-26 18:09:26,549 - BaseClass -INFO - password provided
+2022-11-26 18:09:26,782 - BaseClass -INFO - login button clicked
+2022-11-26 18:09:29,854 - BaseClass -INFO - username provided
+2022-11-26 18:09:30,077 - BaseClass -INFO - password provided
+2022-11-26 18:09:30,325 - BaseClass -INFO - login button clicked
+2022-11-26 18:09:32,612 - BaseClass -INFO - username provided
+2022-11-26 18:09:32,741 - BaseClass -INFO - password provided
+2022-11-26 18:09:32,984 - BaseClass -INFO - login button clicked
+2022-11-26 18:09:34,792 - BaseClass -INFO - username provided
+2022-11-26 18:09:34,967 - BaseClass -INFO - password provided
+2022-11-26 18:09:35,209 - BaseClass -INFO - login button clicked
+2022-11-26 18:09:37,035 - BaseClass -INFO - username provided
+2022-11-26 18:09:37,209 - BaseClass -INFO - password provided
+2022-11-26 18:09:37,447 - BaseClass -INFO - login button clicked
+2022-11-26 18:14:58,984 - BaseClass -INFO - URL is open
+2022-11-26 18:15:07,206 - BaseClass -INFO - username provided
+2022-11-26 18:15:07,225 - BaseClass -INFO - password provided
+2022-11-26 18:15:07,445 - BaseClass -INFO - login button clicked
+2022-11-26 18:15:08,249 - BaseClass -INFO - username provided
+2022-11-26 18:15:08,282 - BaseClass -INFO - password provided
+2022-11-26 18:15:08,503 - BaseClass -INFO - login button clicked
+2022-11-26 18:15:09,227 - BaseClass -INFO - username provided
+2022-11-26 18:15:09,250 - BaseClass -INFO - password provided
+2022-11-26 18:15:09,462 - BaseClass -INFO - login button clicked
+2022-11-26 18:15:10,151 - BaseClass -INFO - username provided
+2022-11-26 18:15:10,186 - BaseClass -INFO - password provided
+2022-11-26 18:15:10,419 - BaseClass -INFO - login button clicked
+2022-11-26 18:18:36,205 - BaseClass -INFO - URL is open
+2022-11-26 18:18:38,730 - BaseClass -INFO - username provided
+2022-11-26 18:18:38,749 - BaseClass -INFO - password provided
+2022-11-26 18:18:38,982 - BaseClass -INFO - login button clicked
+2022-11-26 18:18:39,519 - BaseClass -INFO - username provided
+2022-11-26 18:18:39,546 - BaseClass -INFO - password provided
+2022-11-26 18:18:39,768 - BaseClass -INFO - login button clicked
+2022-11-26 18:18:40,507 - BaseClass -INFO - username provided
+2022-11-26 18:18:40,530 - BaseClass -INFO - password provided
+2022-11-26 18:18:40,839 - BaseClass -INFO - login button clicked
+2022-11-26 18:18:41,319 - BaseClass -INFO - username provided
+2022-11-26 18:18:41,356 - BaseClass -INFO - password provided
+2022-11-26 18:18:41,576 - BaseClass -INFO - login button clicked
+2022-11-26 18:20:30,593 - BaseClass -INFO - URL is open
+2022-11-26 18:20:33,108 - BaseClass -INFO - username provided
+2022-11-26 18:20:33,134 - BaseClass -INFO - password provided
+2022-11-26 18:20:33,429 - BaseClass -INFO - login button clicked
+2022-11-26 18:20:34,061 - BaseClass -INFO - username provided
+2022-11-26 18:20:34,093 - BaseClass -INFO - password provided
+2022-11-26 18:20:34,319 - BaseClass -INFO - login button clicked
+2022-11-26 18:20:34,936 - BaseClass -INFO - username provided
+2022-11-26 18:20:34,954 - BaseClass -INFO - password provided
+2022-11-26 18:20:35,172 - BaseClass -INFO - login button clicked
+2022-11-26 18:20:35,768 - BaseClass -INFO - username provided
+2022-11-26 18:20:35,799 - BaseClass -INFO - password provided
+2022-11-26 18:20:36,021 - BaseClass -INFO - login button clicked
+2022-11-26 18:20:36,601 - BaseClass -INFO - username provided
+2022-11-26 18:20:36,619 - BaseClass -INFO - password provided
+2022-11-26 18:20:36,850 - BaseClass -INFO - login button clicked
+2022-11-26 18:23:40,847 - BaseClass -INFO - URL is open
+2022-11-26 18:23:43,365 - BaseClass -INFO - username provided
+2022-11-26 18:23:43,387 - BaseClass -INFO - password provided
+2022-11-26 18:23:43,618 - BaseClass -INFO - login button clicked
+2022-11-26 18:23:49,247 - BaseClass -INFO - username provided
+2022-11-26 18:23:49,283 - BaseClass -INFO - password provided
+2022-11-26 18:23:49,515 - BaseClass -INFO - login button clicked
+2022-11-26 18:23:55,079 - BaseClass -INFO - username provided
+2022-11-26 18:23:55,137 - BaseClass -INFO - password provided
+2022-11-26 18:23:55,364 - BaseClass -INFO - login button clicked
+2022-11-26 18:24:00,902 - BaseClass -INFO - username provided
+2022-11-26 18:24:00,945 - BaseClass -INFO - password provided
+2022-11-26 18:24:01,176 - BaseClass -INFO - login button clicked
+2022-11-26 18:24:06,727 - BaseClass -INFO - username provided
+2022-11-26 18:24:06,766 - BaseClass -INFO - password provided
+2022-11-26 18:24:06,998 - BaseClass -INFO - login button clicked
+2022-11-26 18:24:38,150 - BaseClass -INFO - URL is open
+2022-11-26 18:24:40,769 - BaseClass -INFO - username provided
+2022-11-26 18:24:40,792 - BaseClass -INFO - password provided
+2022-11-26 18:24:41,136 - BaseClass -INFO - login button clicked
+2022-11-26 18:24:46,736 - BaseClass -INFO - username provided
+2022-11-26 18:24:46,772 - BaseClass -INFO - password provided
+2022-11-26 18:24:47,000 - BaseClass -INFO - login button clicked
+2022-11-26 18:25:59,175 - BaseClass -INFO - URL is open
+2022-11-26 18:26:02,866 - BaseClass -INFO - username provided
+2022-11-26 18:26:02,898 - BaseClass -INFO - password provided
+2022-11-26 18:26:03,221 - BaseClass -INFO - login button clicked
+2022-11-26 18:26:03,938 - BaseClass -INFO - username provided
+2022-11-26 18:26:03,965 - BaseClass -INFO - password provided
+2022-11-26 18:26:04,197 - BaseClass -INFO - login button clicked
+2022-11-26 18:26:04,689 - BaseClass -INFO - username provided
+2022-11-26 18:26:04,714 - BaseClass -INFO - password provided
+2022-11-26 18:26:04,943 - BaseClass -INFO - login button clicked
+2022-11-26 18:26:05,434 - BaseClass -INFO - username provided
+2022-11-26 18:26:05,464 - BaseClass -INFO - password provided
+2022-11-26 18:26:05,692 - BaseClass -INFO - login button clicked
+2022-11-26 18:26:06,132 - BaseClass -INFO - username provided
+2022-11-26 18:26:06,158 - BaseClass -INFO - password provided
+2022-11-26 18:26:06,378 - BaseClass -INFO - login button clicked
+2022-11-26 18:27:55,208 - BaseClass -INFO - URL is open
+2022-11-26 18:27:56,510 - BaseClass -INFO - username provided
+2022-11-26 18:27:56,561 - BaseClass -INFO - password provided
+2022-11-26 18:27:56,787 - BaseClass -INFO - login button clicked
+2022-11-26 18:27:56,983 - BaseClass -INFO - username provided
+2022-11-26 18:27:57,013 - BaseClass -INFO - password provided
+2022-11-26 18:27:57,233 - BaseClass -INFO - login button clicked
+2022-11-26 18:27:57,423 - BaseClass -INFO - username provided
+2022-11-26 18:27:57,489 - BaseClass -INFO - password provided
+2022-11-26 18:27:57,847 - BaseClass -INFO - login button clicked
+2022-11-26 18:27:58,061 - BaseClass -INFO - username provided
+2022-11-26 18:27:58,093 - BaseClass -INFO - password provided
+2022-11-26 18:27:58,316 - BaseClass -INFO - login button clicked
+2022-11-26 18:27:58,452 - BaseClass -INFO - username provided
+2022-11-26 18:27:58,525 - BaseClass -INFO - password provided
+2022-11-26 18:27:58,744 - BaseClass -INFO - login button clicked
+2022-11-26 18:31:24,883 - BaseClass -INFO - URL is open
+2022-11-26 18:31:26,399 - BaseClass -INFO - username provided
+2022-11-26 18:31:26,665 - BaseClass -INFO - password provided
+2022-11-26 18:31:26,885 - BaseClass -INFO - login button clicked
+2022-11-26 18:31:36,168 - BaseClass -INFO - username provided
+2022-11-26 18:31:36,203 - BaseClass -INFO - password provided
+2022-11-26 18:31:36,429 - BaseClass -INFO - login button clicked
+2022-11-26 18:31:45,513 - BaseClass -INFO - Login test passed
+2022-11-26 18:33:49,483 - BaseClass -INFO - URL is open
+2022-11-26 18:33:52,158 - BaseClass -INFO - username provided
+2022-11-26 18:33:52,215 - BaseClass -INFO - password provided
+2022-11-26 18:33:57,700 - BaseClass -INFO - login button clicked
+2022-11-26 18:34:07,137 - BaseClass -INFO - Login test passed
+2022-11-26 18:40:33,728 - BaseClass -INFO - URL is open
+2022-11-26 18:40:35,861 - BaseClass -INFO - username provided
+2022-11-26 18:40:35,889 - BaseClass -INFO - password provided
+2022-11-26 18:40:41,133 - BaseClass -INFO - login button clicked
+2022-11-26 18:40:50,221 - BaseClass -INFO - Login test passed
+2022-11-26 18:42:23,180 - BaseClass -INFO - URL is open
+2022-11-26 18:42:24,140 - BaseClass -INFO - username provided
+2022-11-26 18:42:24,160 - BaseClass -INFO - password provided
+2022-11-26 18:42:29,428 - BaseClass -INFO - login button clicked
+2022-11-26 18:42:38,556 - BaseClass -INFO - Login test passed
+2022-11-26 18:46:28,547 - BaseClass -INFO - URL is open
+2022-11-26 18:46:29,709 - BaseClass -INFO - username provided
+2022-11-26 18:46:30,070 - BaseClass -INFO - password provided
+2022-11-26 18:46:35,398 - BaseClass -INFO - login button clicked
+2022-11-26 18:46:44,583 - BaseClass -INFO - Login test passed
+2022-11-26 18:47:48,920 - BaseClass -INFO - URL is open
+2022-11-26 18:47:49,950 - BaseClass -INFO - username provided
+2022-11-26 18:47:49,981 - BaseClass -INFO - password provided
+2022-11-26 18:47:55,270 - BaseClass -INFO - login button clicked
+2022-11-26 18:48:04,338 - BaseClass -INFO - Login test passed
+2022-11-26 18:50:22,490 - BaseClass -INFO - URL is open
+2022-11-26 18:50:23,481 - BaseClass -INFO - username provided
+2022-11-26 18:50:23,500 - BaseClass -INFO - password provided
+2022-11-26 18:50:28,752 - BaseClass -INFO - login button clicked
+2022-11-26 18:50:37,855 - BaseClass -INFO - Login test passed
+2022-11-26 18:52:10,229 - BaseClass -INFO - URL is open
+2022-11-26 18:52:11,957 - BaseClass -INFO - username provided
+2022-11-26 18:52:12,007 - BaseClass -INFO - password provided
+2022-11-26 18:52:17,265 - BaseClass -INFO - login button clicked
+2022-11-26 18:52:26,363 - BaseClass -INFO - Login test passed
+2022-11-26 18:53:21,873 - BaseClass -INFO - URL is open
+2022-11-26 18:53:23,312 - BaseClass -INFO - username provided
+2022-11-26 18:53:23,340 - BaseClass -INFO - password provided
+2022-11-26 18:53:28,588 - BaseClass -INFO - login button clicked
+2022-11-26 18:53:37,785 - BaseClass -INFO - Login test passed
+2022-11-26 18:55:02,836 - BaseClass -INFO - URL is open
+2022-11-26 18:55:06,088 - BaseClass -INFO - username provided
+2022-11-26 18:55:06,122 - BaseClass -INFO - password provided
+2022-11-26 18:55:11,375 - BaseClass -INFO - login button clicked
+2022-11-26 18:55:20,479 - BaseClass -INFO - Login test passed
+2022-11-26 18:56:56,144 - BaseClass -INFO - URL is open
+2022-11-26 18:57:00,030 - BaseClass -INFO - username provided
+2022-11-26 18:57:00,076 - BaseClass -INFO - password provided
+2022-11-26 18:57:05,329 - BaseClass -INFO - login button clicked
+2022-11-26 18:58:40,132 - BaseClass -INFO - URL is open
+2022-11-26 18:58:43,816 - BaseClass -INFO - username provided
+2022-11-26 18:58:43,896 - BaseClass -INFO - password provided
+2022-11-26 18:59:09,667 - BaseClass -INFO - login button clicked
+2022-11-26 19:03:07,652 - BaseClass -INFO - URL is open
+2022-11-26 19:03:10,308 - BaseClass -INFO - username provided
+2022-11-26 19:03:10,332 - BaseClass -INFO - password provided
+2022-11-26 19:03:15,587 - BaseClass -INFO - login button clicked
+2022-11-26 19:04:28,655 - BaseClass -INFO - URL is open
+2022-11-26 19:04:32,273 - BaseClass -INFO - username provided
+2022-11-26 19:04:32,310 - BaseClass -INFO - password provided
+2022-11-26 19:04:37,564 - BaseClass -INFO - login button clicked
+2022-11-26 19:05:21,539 - BaseClass -INFO - URL is open
+2022-11-26 19:05:24,810 - BaseClass -INFO - username provided
+2022-11-26 19:05:24,836 - BaseClass -INFO - password provided
+2022-11-26 19:05:30,598 - BaseClass -INFO - login button clicked
+2022-11-26 19:05:50,742 - BaseClass -INFO - Login test passed
+2022-11-26 19:07:22,710 - BaseClass -INFO - URL is open
+2022-11-26 19:07:25,996 - BaseClass -INFO - username provided
+2022-11-26 19:07:26,027 - BaseClass -INFO - password provided
+2022-11-26 19:07:31,274 - BaseClass -INFO - login button clicked
+2022-11-26 19:07:51,423 - BaseClass -INFO - Login test passed
+2022-11-26 19:09:46,531 - BaseClass -INFO - URL is open
+2022-11-26 19:09:49,579 - BaseClass -INFO - username provided
+2022-11-26 19:09:49,624 - BaseClass -INFO - password provided
+2022-11-26 19:09:55,220 - BaseClass -INFO - login button clicked
+2022-11-26 19:10:15,361 - BaseClass -INFO - Login test passed
+2022-11-26 19:13:57,344 - BaseClass -INFO - URL is open
+2022-11-26 19:14:00,939 - BaseClass -INFO - username provided
+2022-11-26 19:14:01,002 - BaseClass -INFO - password provided
+2022-11-26 19:14:06,246 - BaseClass -INFO - login button clicked
+2022-11-26 19:14:16,336 - BaseClass -INFO - Login test passed
+2022-11-26 19:14:16,336 - BaseClass -INFO - 11signout
+2022-11-26 19:14:38,958 - BaseClass -INFO - username provided
+2022-11-26 19:14:38,991 - BaseClass -INFO - password provided
+2022-11-26 19:14:39,243 - BaseClass -INFO - login button clicked
+2022-11-26 19:18:11,273 - BaseClass -INFO - URL is open
+2022-11-26 19:18:13,962 - BaseClass -INFO - username provided
+2022-11-26 19:18:13,987 - BaseClass -INFO - password provided
+2022-11-26 19:18:19,266 - BaseClass -INFO - login button clicked
+2022-11-26 19:18:29,418 - BaseClass -INFO - Login test passed
+2022-11-26 19:18:29,419 - BaseClass -INFO - 11signout
+2022-11-26 19:20:02,115 - BaseClass -INFO - URL is open
+2022-11-26 19:20:10,914 - BaseClass -INFO - username provided
+2022-11-26 19:20:10,938 - BaseClass -INFO - password provided
+2022-11-26 19:20:12,930 - BaseClass -INFO - login button clicked
+2022-11-26 19:20:23,009 - BaseClass -INFO - Login test passed
+2022-11-26 19:20:23,009 - BaseClass -INFO - 11signout
+2022-11-26 19:24:38,728 - BaseClass -INFO - URL is open
+2022-11-26 19:24:42,432 - BaseClass -INFO - username provided
+2022-11-26 19:24:42,518 - BaseClass -INFO - password provided
+2022-11-26 19:24:49,430 - BaseClass -INFO - login button clicked
+2022-11-26 19:24:59,560 - BaseClass -INFO - Login test passed
+2022-11-26 19:24:59,561 - BaseClass -INFO - 11signout
+2022-11-26 19:35:05,031 - BaseClass -INFO - URL is open
+2022-11-26 19:35:10,130 - BaseClass -INFO - username provided
+2022-11-26 19:35:10,215 - BaseClass -INFO - password provided
+2022-11-26 19:35:17,152 - BaseClass -INFO - login button clicked
+2022-11-26 19:35:27,407 - BaseClass -INFO - Login test passed
+2022-11-26 19:35:27,408 - BaseClass -INFO - 11signout
+2022-11-26 19:42:18,376 - BaseClass -INFO - URL is open
+2022-11-26 19:42:28,673 - BaseClass -INFO - username provided
+2022-11-26 19:42:28,765 - BaseClass -INFO - password provided
+2022-11-26 19:42:36,329 - BaseClass -INFO - login button clicked
+2022-11-26 19:42:54,376 - BaseClass -INFO - username provided
+2022-11-26 19:42:54,554 - BaseClass -INFO - password provided
+2022-11-26 19:43:00,140 - BaseClass -INFO - login button clicked
+2022-11-26 19:43:21,626 - BaseClass -INFO - username provided
+2022-11-26 19:43:21,879 - BaseClass -INFO - password provided
+2022-11-26 19:43:21,997 - BaseClass -INFO - login button clicked
+2022-11-26 19:43:37,920 - BaseClass -INFO - username provided
+2022-11-26 19:43:38,214 - BaseClass -INFO - password provided
+2022-11-26 19:43:38,298 - BaseClass -INFO - login button clicked
+2022-11-26 19:43:52,861 - BaseClass -INFO - username provided
+2022-11-26 19:43:52,967 - BaseClass -INFO - password provided
+2022-11-26 19:43:53,063 - BaseClass -INFO - login button clicked
+2022-11-26 19:46:19,452 - BaseClass -INFO - URL is open
+2022-11-26 19:46:23,422 - BaseClass -INFO - username provided
+2022-11-26 19:46:23,501 - BaseClass -INFO - password provided
+2022-11-26 19:46:27,064 - BaseClass -INFO - login button clicked
+2022-11-26 19:46:39,215 - BaseClass -INFO - Login test failed
+2022-11-26 19:46:45,922 - BaseClass -INFO - username provided
+2022-11-26 19:46:46,000 - BaseClass -INFO - password provided
+2022-11-26 19:46:51,650 - BaseClass -INFO - login button clicked
+2022-11-26 19:47:10,810 - BaseClass -INFO - Login test failed
+2022-11-26 19:47:17,463 - BaseClass -INFO - username provided
+2022-11-26 19:47:17,546 - BaseClass -INFO - password provided
+2022-11-26 19:47:17,602 - BaseClass -INFO - login button clicked
+2022-11-26 19:47:27,713 - BaseClass -INFO - Login test failed
+2022-11-26 19:48:40,262 - BaseClass -INFO - URL is open
+2022-11-26 19:48:44,404 - BaseClass -INFO - username provided
+2022-11-26 19:48:44,486 - BaseClass -INFO - password provided
+2022-11-26 19:48:50,850 - BaseClass -INFO - login button clicked
+2022-11-26 19:49:21,004 - BaseClass -INFO - Login test failed
+2022-11-26 19:49:25,188 - BaseClass -INFO - username provided
+2022-11-26 19:49:25,286 - BaseClass -INFO - password provided
+2022-11-26 19:49:30,362 - BaseClass -INFO - login button clicked
+2022-11-26 19:50:00,495 - BaseClass -INFO - Login test failed
+2022-11-26 19:50:03,699 - BaseClass -INFO - username provided
+2022-11-26 19:50:03,855 - BaseClass -INFO - password provided
+2022-11-26 19:50:04,202 - BaseClass -INFO - login button clicked
+2022-11-26 19:51:22,505 - BaseClass -INFO - URL is open
+2022-11-26 19:51:28,937 - BaseClass -INFO - username provided
+2022-11-26 19:51:29,051 - BaseClass -INFO - password provided
+2022-11-26 19:51:36,033 - BaseClass -INFO - login button clicked
+2022-11-26 19:55:37,697 - BaseClass -INFO - URL is open
+2022-11-26 19:55:41,430 - BaseClass -INFO - username provided
+2022-11-26 19:55:41,516 - BaseClass -INFO - password provided
+2022-11-26 19:55:44,771 - BaseClass -INFO - login button clicked
+2022-11-26 19:56:25,979 - BaseClass -INFO - URL is open
+2022-11-26 19:56:29,559 - BaseClass -INFO - username provided
+2022-11-26 19:56:29,655 - BaseClass -INFO - password provided
+2022-11-26 19:56:32,692 - BaseClass -INFO - login button clicked
+2022-11-26 19:57:47,054 - BaseClass -INFO - URL is open
+2022-11-26 19:57:49,692 - BaseClass -INFO - username provided
+2022-11-26 19:57:49,825 - BaseClass -INFO - password provided
+2022-11-26 19:57:55,069 - BaseClass -INFO - login button clicked
+2022-11-26 20:03:05,092 - BaseClass -INFO - URL is open
+2022-11-26 20:03:09,333 - BaseClass -INFO - username provided
+2022-11-26 20:03:09,548 - BaseClass -INFO - password provided
+2022-11-26 20:03:14,005 - BaseClass -INFO - login button clicked
+2022-11-26 20:06:05,691 - BaseClass -INFO - URL is open
+2022-11-26 20:06:07,648 - BaseClass -INFO - username provided
+2022-11-26 20:06:07,726 - BaseClass -INFO - password provided
+2022-11-26 20:06:11,536 - BaseClass -INFO - login button clicked
+2022-11-26 20:09:04,244 - BaseClass -INFO - URL is open
+2022-11-26 20:09:08,008 - BaseClass -INFO - username provided
+2022-11-26 20:09:08,155 - BaseClass -INFO - password provided
+2022-11-26 20:09:10,825 - BaseClass -INFO - login button clicked
+2022-11-26 20:09:14,030 - BaseClass -INFO - Login test failed
+2022-11-26 20:12:05,675 - BaseClass -INFO - URL is open
+2022-11-26 20:12:10,106 - BaseClass -INFO - username provided
+2022-11-26 20:12:10,189 - BaseClass -INFO - password provided
+2022-11-26 20:12:13,320 - BaseClass -INFO - login button clicked
+2022-11-26 20:12:16,393 - BaseClass -INFO - Login test failed
+2022-11-26 20:12:19,448 - BaseClass -INFO - username provided
+2022-11-26 20:12:19,573 - BaseClass -INFO - password provided
+2022-11-26 20:12:22,739 - BaseClass -INFO - login button clicked
+2022-11-26 20:12:25,863 - BaseClass -INFO - Login test failed
+2022-11-26 20:12:28,621 - BaseClass -INFO - username provided
+2022-11-26 20:12:28,703 - BaseClass -INFO - password provided
+2022-11-26 20:12:28,980 - BaseClass -INFO - login button clicked
+2022-11-26 20:12:32,054 - BaseClass -INFO - Login test failed
+2022-11-26 20:12:34,075 - BaseClass -INFO - username provided
+2022-11-26 20:12:34,157 - BaseClass -INFO - password provided
+2022-11-26 20:12:34,231 - BaseClass -INFO - login button clicked
+2022-11-26 20:12:37,332 - BaseClass -INFO - Login test failed
+2022-11-26 20:12:42,029 - BaseClass -INFO - username provided
+2022-11-26 20:12:42,128 - BaseClass -INFO - password provided
+2022-11-26 20:12:42,241 - BaseClass -INFO - login button clicked
+2022-11-26 20:12:45,283 - BaseClass -INFO - Login test failed
+2022-11-26 20:15:26,536 - BaseClass -INFO - URL is open
+2022-11-26 20:15:30,267 - BaseClass -INFO - username provided
+2022-11-26 20:15:30,357 - BaseClass -INFO - password provided
+2022-11-26 20:15:38,727 - BaseClass -INFO - login button clicked
+2022-11-26 20:15:41,866 - BaseClass -INFO - Login test failed
+2022-11-26 20:15:45,078 - BaseClass -INFO - username provided
+2022-11-26 20:15:45,162 - BaseClass -INFO - password provided
+2022-11-26 20:15:54,476 - BaseClass -INFO - login button clicked
+2022-11-26 20:15:57,544 - BaseClass -INFO - Login test failed
+2022-11-26 20:16:05,684 - BaseClass -INFO - username provided
+2022-11-26 20:16:05,871 - BaseClass -INFO - password provided
+2022-11-26 20:16:06,044 - BaseClass -INFO - login button clicked
+2022-11-26 20:16:09,112 - BaseClass -INFO - Login test failed
+2022-11-26 20:16:17,490 - BaseClass -INFO - username provided
+2022-11-26 20:16:18,000 - BaseClass -INFO - password provided
+2022-11-26 20:16:18,050 - BaseClass -INFO - login button clicked
+2022-11-26 20:16:21,094 - BaseClass -INFO - Login test failed
+2022-11-26 20:16:23,795 - BaseClass -INFO - username provided
+2022-11-26 20:16:23,877 - BaseClass -INFO - password provided
+2022-11-26 20:16:23,942 - BaseClass -INFO - login button clicked
+2022-11-26 20:16:27,011 - BaseClass -INFO - Login test failed
+2022-11-26 20:26:02,517 - BaseClass -INFO - URL is open
+2022-11-26 20:26:07,958 - BaseClass -INFO - username provided
+2022-11-26 20:26:08,043 - BaseClass -INFO - password provided
+2022-11-26 20:26:11,381 - BaseClass -INFO - login button clicked
+2022-11-26 20:26:14,511 - BaseClass -INFO - Login test failed
+2022-11-26 20:26:18,007 - BaseClass -INFO - username provided
+2022-11-26 20:26:18,088 - BaseClass -INFO - password provided
+2022-11-26 20:26:23,128 - BaseClass -INFO - login button clicked
+2022-11-26 20:26:26,199 - BaseClass -INFO - Login test failed
+2022-11-26 20:26:29,054 - BaseClass -INFO - username provided
+2022-11-26 20:26:29,151 - BaseClass -INFO - password provided
+2022-11-26 20:26:29,355 - BaseClass -INFO - login button clicked
+2022-11-26 20:26:32,467 - BaseClass -INFO - Login test failed
+2022-11-26 20:26:35,669 - BaseClass -INFO - username provided
+2022-11-26 20:26:35,872 - BaseClass -INFO - password provided
+2022-11-26 20:26:35,989 - BaseClass -INFO - login button clicked
+2022-11-26 20:26:39,092 - BaseClass -INFO - Login test failed
+2022-11-26 20:26:41,848 - BaseClass -INFO - username provided
+2022-11-26 20:26:42,196 - BaseClass -INFO - password provided
+2022-11-26 20:26:42,351 - BaseClass -INFO - login button clicked
+2022-11-26 20:26:45,430 - BaseClass -INFO - Login test failed
+2022-11-26 20:32:44,386 - BaseClass -INFO - URL is open
+2022-11-26 20:32:49,538 - BaseClass -INFO - username provided
+2022-11-26 20:32:49,621 - BaseClass -INFO - password provided
+2022-11-26 20:32:52,460 - BaseClass -INFO - login button clicked
+2022-11-26 20:32:55,546 - BaseClass -INFO - Login test failed
+2022-11-26 20:33:02,781 - BaseClass -INFO - username provided
+2022-11-26 20:33:02,861 - BaseClass -INFO - password provided
+2022-11-26 20:33:16,015 - BaseClass -INFO - login button clicked
+2022-11-26 20:33:19,079 - BaseClass -INFO - Login test failed
+2022-11-26 20:33:26,364 - BaseClass -INFO - username provided
+2022-11-26 20:33:26,446 - BaseClass -INFO - password provided
+2022-11-26 20:33:26,681 - BaseClass -INFO - login button clicked
+2022-11-26 20:33:29,800 - BaseClass -INFO - Login test failed
+2022-11-26 20:33:37,074 - BaseClass -INFO - username provided
+2022-11-26 20:33:37,163 - BaseClass -INFO - password provided
+2022-11-26 20:33:37,247 - BaseClass -INFO - login button clicked
+2022-11-26 20:33:40,316 - BaseClass -INFO - Login test failed
+2022-11-26 20:33:43,198 - BaseClass -INFO - username provided
+2022-11-26 20:33:43,285 - BaseClass -INFO - password provided
+2022-11-26 20:33:43,362 - BaseClass -INFO - login button clicked
+2022-11-26 20:33:46,454 - BaseClass -INFO - Login test failed
